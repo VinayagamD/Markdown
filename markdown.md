@@ -2,6 +2,20 @@
 
 Markdown is plain text. It's meant to be easily readable -- and writable!
 
+<!-- TOC -->
+* [Markdown Demo](#markdown-demo)
+  * [Advantages](#advantages)
+  * [Disadvantage](#disadvantage)
+  * [Text Formatting](#text-formatting)
+  * [Lists](#lists)
+  * [Links](#links)
+  * [Code](#code)
+  * [Images](#images)
+  * [Tables](#tables)
+    * [Alignments](#alignments)
+  * [Checklists](#checklists)
+<!-- TOC -->
+
 ## Advantages
 
 * Easy for anyone to read.
@@ -39,7 +53,7 @@ We've already used lists, but can also create numbered lists:
 3. This is the third.
 4. Auto-numbering for the win!
 
-# Links
+## Links
 
 Any URL will automatically become a link: https://example.com
 
